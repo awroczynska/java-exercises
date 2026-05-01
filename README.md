@@ -1,7 +1,7 @@
 
 # Java Exercises 
 
-Java programming exercises completed as part of my CS studies at PJATK, Warsaw.
+Java programming exercises completed as part of my Computer Science studies.
 
 ## Exercises
 
